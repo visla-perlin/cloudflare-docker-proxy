@@ -19,7 +19,7 @@
         <mxCell id="6MXTTaW9w-NatlQJU3yg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6MXTTaW9w-NatlQJU3yg-1" source="6MXTTaW9w-NatlQJU3yg-6" target="6MXTTaW9w-NatlQJU3yg-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6MXTTaW9w-NatlQJU3yg-6" value="企业授权页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6MXTTaW9w-NatlQJU3yg-1">
+        <mxCell id="6MXTTaW9w-NatlQJU3yg-6" value="统一认证页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6MXTTaW9w-NatlQJU3yg-1">
           <mxGeometry x="40" y="235" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MXTTaW9w-NatlQJU3yg-7" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6MXTTaW9w-NatlQJU3yg-1">
